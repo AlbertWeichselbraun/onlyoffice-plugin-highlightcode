@@ -1,22 +1,22 @@
 {
-    "name": "Highlight code",
+    "name": "Highlight code (slides)",
     "nameLocale": {
         "ru": "Подсветка кода",
         "fr": "Code en surbrillance",
         "es": "Resaltar el código",
-        "de": "Code hervorheben"
+        "de": "Code hervorheben (slides)"
     },
-    "guid": "asc.{BE5CBF95-C0AD-4842-B157-AC40FEDD9841}",
+    "guid": "asc.{304C54E6-B6A5-4DF5-8D0A-AD2A343820E7}",
     "version": "1.0",
 
     "variations": [
         {
-            "description": "Highlight code",
+            "description": "Highlight code (slides)",
             "descriptionLocale": {
                 "ru": "Подсветка кода",
                 "fr": "Code en surbrillance",
                 "es": "Resaltar el código",
-                "de": "Code hervorheben"
+                "de": "Code hervorheben (slides)"
             },
             "url": "index.html",
 
